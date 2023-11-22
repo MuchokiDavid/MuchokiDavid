@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muchoki David Munuhe</h1>
+<h1 align="center">Hi 👋, I'm Muchoki David</h1>
 <h3 align="center">A passionate frontend developer from Nairobi, Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muchokidavid&label=Profile%20views&color=0e75b6&style=flat" alt="muchokidavid" /> </p>
