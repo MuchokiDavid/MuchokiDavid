@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Tunehub](https://github.com/MuchokiDavid/Tunehub)
 
-- 🌱 I’m currently learning **VanillaJS, ReactJS, Django**
+- 🌱 I’m currently learning **VanillaJS, ReactJS, Django, Python, JSON**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuchokiDavid?tab=repositories](https://github.com/MuchokiDavid?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, JSX, React, Javascript**
+- 💬 Ask me about **HTML, CSS, JSX, React, Javascript, Bootstrap, Tailwind**
 
 - 📫 How to reach me **dmmuchoki7@gmail.com**
 
