@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://th.bing.com/th/id/R.c895db405f490e3eda00969757c55e3d?rik=8dq47eQd%2fd35QQ&pid=ImgRaw&r=0)]
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)]
 <h1 align="center">Hi 👋, I'm Muchoki David</h1>
 <h3 align="center">A passionate frontend developer from Nairobi, Kenya</h3>
 
