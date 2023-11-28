@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muchokidavid" alt="muchokidavid" /></a> </p>
 
-- 🔭 I’m currently working on [Tunehub](https://github.com/MuchokiDavid/Tunehub)
+- 🔭 I’m currently working on [Gostore](https://github.com/MuchokiDavid/gostore)
 
 - 🌱 I’m currently learning **VanillaJS, ReactJS, Django, Python, JSON**
 
