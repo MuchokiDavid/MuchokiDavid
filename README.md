@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-- [My Python works](https://github.com/Python3-Git-Lab)
+- My Python works [https://github.com/Python3-Git-Lab](https://github.com/Python3-Git-Lab)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
