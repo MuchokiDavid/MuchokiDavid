@@ -9,6 +9,7 @@
 - 🔭 I’m currently working on [Scoreboard](https://github.com/MuchokiDavid/scoreboard)
 
 - 🌱 I’m currently learning **VanillaJS, ReactJS, Django, Python, JSON**
+- My Python work [https://github.com/Python3-Git-Lab](https://github.com/Python3-Git-Lab)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuchokiDavid?tab=repositories](https://github.com/MuchokiDavid?tab=repositories)
 
@@ -19,8 +20,6 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/david-muchoki-866552204/](https://www.linkedin.com/in/david-muchoki-866552204/)
 
 - ⚡ Fun fact **I think I am funny**
-
-- My Python work [https://github.com/Python3-Git-Lab](https://github.com/Python3-Git-Lab)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
