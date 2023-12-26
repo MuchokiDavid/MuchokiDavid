@@ -9,7 +9,6 @@
 - 🔭 I’m currently working on [Scoreboard](https://github.com/MuchokiDavid/scoreboard)
 
 - 🌱 I’m currently learning **VanillaJS, ReactJS, Django, Python, JSON**
-- 
 - 🐍 My Python work [https://github.com/Python3-Git-Lab](https://github.com/Python3-Git-Lab)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuchokiDavid?tab=repositories](https://github.com/MuchokiDavid?tab=repositories)
