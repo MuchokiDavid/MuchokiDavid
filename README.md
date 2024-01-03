@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muchokidavid" alt="muchokidavid" /></a> </p>
 
-- 🔭 I’m currently working on [Scoreboard](https://github.com/MuchokiDavid/scoreboard)
+- 🔭 I’m currently working on [Joker](https://joker-react.vercel.app/)
 
 - 🌱 I’m currently learning **VanillaJS, ReactJS, Django, Python, JSON**
 - 🐍 My Python work [https://github.com/Python3-Git-Lab](https://github.com/Python3-Git-Lab)
