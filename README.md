@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuchokiDavid?tab=repositories](https://github.com/MuchokiDavid?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, JSX, React, Javascript, Bootstrap, Tailwind**
+- 💬 Ask me about **HTML, CSS, JSX, React, Javascript, Bootstrap, Tailwind, Deployment: Firebase, Render,Vercel, GhPages**
 
 - 📫 How to reach me **dmmuchoki7@gmail.com**
 
