@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muchokidavid" alt="muchokidavid" /></a> </p>
 
-- 🔭 I’m currently working on [Weather App](https://github.com/MuchokiDavid/weather-app)
+- 🔭 I’m currently working on [WayLinker App](#)
 
 - 🌱 I’m currently learning **VanillaJS, ReactJS, Django, Python, JSON**
 - 🐍 My Python work [https://github.com/Python3-Git-Lab](https://github.com/Python3-Git-Lab)
