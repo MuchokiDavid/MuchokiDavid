@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muchokidavid&label=Profile%20views&color=0e75b6&style=flat" alt="muchokidavid" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muchokidavid" alt="muchokidavid" /></a> </p>
 
 - 🔭 I’m currently working on [WayLinker App](#)
 
