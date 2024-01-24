@@ -8,8 +8,8 @@
 - 🔭 I’m currently working on [WayLinker App](#)
 
 - 🌱 I’m currently learning **VanillaJS, ReactJS, Django, Python, JSON**
-- 🐍 My Python work [https://github.com/Python3-Git-Lab](https://github.com/Python3-Git-Lab)
-- My Flask work [https://github.com/orgs/Moringa-Flask-Framework/repositories](https://github.com/orgs/Moringa-Flask-Framework/repositories)
+- 🐍 My Python work [Python repositories](https://github.com/orgs/Python3-Git-Lab/repositories)
+- My Flask work [Flask-Framework repositories](https://github.com/orgs/Moringa-Flask-Framework/repositories)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuchokiDavid?tab=repositories](https://github.com/MuchokiDavid?tab=repositories)
 
