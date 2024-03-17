@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muchokidavid&label=Profile%20views&color=0e75b6&style=flat" alt="muchokidavid" /> </p>
 
 
-- 🔭 I’m currently working on [WayLinker App](#)
+- 🔭 I’m currently working on [Intasend App](#)
 
 - 🌱 I’m currently learning **VanillaJS, ReactJS, Django, Flask, Python, JSON**
 - 🐍 My Python work [Python repositories](https://github.com/orgs/Python3-Git-Lab/repositories)
