@@ -35,4 +35,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muchokidavid&" alt="muchokidavid" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="[https://www.buymeacoffee.com/muchokidavid](https://www.buymeacoffee.com/muchokidavid)"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="muchokidavid" /></a></p><br><br>
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/muchokidavid)
