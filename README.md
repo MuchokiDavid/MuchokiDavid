@@ -5,21 +5,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muchokidavid&label=Profile%20views&color=0e75b6&style=flat" alt="muchokidavid" /> </p>
 
 
-- 🔭 I’m currently working on [Intasend App](#)
+- 🔭 I’m currently working on :Python APIs
 
 - 🌱 I’m currently learning **VanillaJS, ReactJS, Django, Flask, Python, JSON**
-- 🐍 My Python work [Python repositories](https://github.com/orgs/Python3-Git-Lab/repositories)
-- My Flask work [Flask-Framework repositories](https://github.com/orgs/Moringa-Flask-Framework/repositories)
-
-- 👨‍💻 All of my projects are available at [https://github.com/MuchokiDavid?tab=repositories](https://github.com/MuchokiDavid?tab=repositories)
-
-- 💬 Ask me about **HTML, CSS, JSX, React, Javascript, Bootstrap, Tailwind, Python, Deployment: Firebase, Render,Vercel, GhPages**
+- 💬 Ask me about **HTML, CSS, JSX, React, Javascript, Bootstrap, Tailwind, Python**
 
 - 📫 How to reach me **dmmuchoki7@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/david-muchoki-866552204/](https://www.linkedin.com/in/david-muchoki-866552204/)
-
-- ⚡ Fun fact **I think I am funny**
+  
+- Favourite quote:
+  ```bash
+  Whatever the mind can conceive and believe, the mind can achieve regardless of how many times you may have failed in the past or how lofty your aims and hopes may be.
+  ```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
