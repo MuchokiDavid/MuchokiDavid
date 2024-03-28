@@ -15,7 +15,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/david-muchoki-866552204/](https://www.linkedin.com/in/david-muchoki-866552204/)
   
 - Favourite quote:
-  ```bash
+  ```txt
   Whatever the mind can conceive and believe, the mind can achieve regardless of how many times you may have failed in the past or how lofty your aims and hopes may be.
   ```
 
