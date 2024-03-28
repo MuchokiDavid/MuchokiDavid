@@ -6,8 +6,7 @@
 
 
 - 🔭 I’m currently working on :Python APIs
-
-- 🌱 I’m currently learning **VanillaJS, ReactJS, Django, Flask, Python, JSON**
+- 
 - 💬 Ask me about **HTML, CSS, JSX, React, Javascript, Bootstrap, Tailwind, Python**
 
 - 📫 How to reach me **dmmuchoki7@gmail.com**
