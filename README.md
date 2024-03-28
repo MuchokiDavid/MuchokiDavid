@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on :Python APIs
-- 
+  
 - 💬 Ask me about **HTML, CSS, JSX, React, Javascript, Bootstrap, Tailwind, Python**
 
 - 📫 How to reach me **dmmuchoki7@gmail.com**
