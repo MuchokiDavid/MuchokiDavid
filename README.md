@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dmmuchoki7@gmail.com**
 
-- 📄 Know about my experiences [Portfolio](https://www.linkedin.com/in/david-muchoki-866552204/)
+- 📄 Know about my experiences [Portfolio](www.linkedin.com/in/david-muchoki)
   
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
