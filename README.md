@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on: [DRF](https://www.django-rest-framework.org/)
   
-- 💬 Ask me about **HTML, CSS, JSX, React, Javascript, Bootstrap, Tailwind, Python, Flask**
+- 💬 Ask me about **HTML, CSS, JSX, React, Javascript, Bootstrap, Tailwind, Python, Flask, Django**
 
 - 📫 How to reach me **dmmuchoki7@gmail.com**
 
