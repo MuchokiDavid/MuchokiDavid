@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muchokidavid&label=Profile%20views&color=0e75b6&style=flat" alt="muchokidavid" /> </p>
 
 
+<!--END_SECTION:waka-->
 - 🔭 I’m currently working on: [DRF](https://www.django-rest-framework.org/)
   
 - 💬 Ask me about **HTML, CSS, JSX, React, Javascript, Bootstrap, Tailwind, Python, Flask, Django**
@@ -21,8 +22,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muchokidavid&show_icons=true&locale=en&layout=compact" alt="muchokidavid" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muchokidavid&show_icons=true&locale=en" alt="muchokidavid" /></p> -->
- <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+ START_SECTION:waka
+END_SECTION:waka
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muchokidavid&" alt="muchokidavid" /></p>
 
 <h3 align="left">Support:</h3>
