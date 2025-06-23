@@ -2,8 +2,8 @@
 <h3 align="center">A passionate developer from Kenya</h3>
 
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=muchokidavid&label=Profile%20views&color=0e75b6&style=flat" alt="muchokidavid" /> </p>-->
-[![wakatime](https://wakatime.com/badge/user/0b6251c0-e0d1-4557-b224-78e6a1a724f2.svg)](https://wakatime.com/@0b6251c0-e0d1-4557-b224-78e6a1a724f2)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muchokidavid&label=Profile%20views&color=0e75b6&style=flat" alt="muchokidavid" /> </p>
+<!--[![wakatime](https://wakatime.com/badge/user/0b6251c0-e0d1-4557-b224-78e6a1a724f2.svg)](https://wakatime.com/@0b6251c0-e0d1-4557-b224-78e6a1a724f2)-->
 
 <!--END_SECTION:waka-->
 - 🔭 I’m currently working on: [DRF](https://www.django-rest-framework.org/)
