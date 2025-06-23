@@ -24,6 +24,7 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muchokidavid&show_icons=true&locale=en" alt="muchokidavid" /></p> -->
 <!--START_SECTION:waka -->
 <!--END_SECTION:waka -->
+[![wakatime](https://wakatime.com/badge/user/0b6251c0-e0d1-4557-b224-78e6a1a724f2.svg)](https://wakatime.com/@0b6251c0-e0d1-4557-b224-78e6a1a724f2)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muchokidavid&" alt="muchokidavid" /></p>
 
 <h3 align="left">Support:</h3>
