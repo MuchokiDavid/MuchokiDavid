@@ -4,8 +4,6 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=muchokidavid&label=Profile%20views&color=0e75b6&style=flat" alt="muchokidavid" /> </p>-->
 [![wakatime](https://wakatime.com/badge/user/0b6251c0-e0d1-4557-b224-78e6a1a724f2.svg)](https://wakatime.com/@0b6251c0-e0d1-4557-b224-78e6a1a724f2)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muchokidavid&" alt="muchokidavid" /></p>
-
 
 <!--END_SECTION:waka-->
 - 🔭 I’m currently working on: [DRF](https://www.django-rest-framework.org/)
@@ -26,6 +24,7 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muchokidavid&show_icons=true&locale=en" alt="muchokidavid" /></p> -->
 <!--START_SECTION:waka -->
 <!--END_SECTION:waka -->
-<!--
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muchokidavid&" alt="muchokidavid" /></p>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/muchokidavid"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="muchokidavid" /></a></p><br><br>
