@@ -8,7 +8,7 @@
 <!--END_SECTION:waka-->
 - 🔭 I’m currently working on: [PSVQ](https://psvq.onrender.com/)
   
-- 💬 Ask me about **HTML, CSS, JSX, React, Javascript, Bootstrap, Tailwind, Python, Flask, Django**
+- 💬 Ask me about **HTML, CSS, JSX, React, Javascript, Bootstrap, Tailwind, Python, Flask, Django and More...**
 
 - 📫 How to reach me **dmmuchoki7@gmail.com**
 
