@@ -27,6 +27,11 @@
 
 ![muchokidavid's Stats](https://github-readme-stats.vercel.app/api?username=muchokidavid&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muchokidavid&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchokidavid&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" />
+</p>
+
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuchokiDavid&bg_color=011627&color=c792ea&line=c792ea&point=ffeb95&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka -->
