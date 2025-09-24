@@ -22,7 +22,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muchokidavid&show_icons=true&locale=en&layout=compact" alt="muchokidavid" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muchokidavid&show_icons=true&locale=en" alt="muchokidavid" /></p>
+
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuchokiDavid&bg_color=011627&color=c792ea&line=c792ea&point=ffeb95&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--START_SECTION:waka -->
 <!--END_SECTION:waka -->
 
