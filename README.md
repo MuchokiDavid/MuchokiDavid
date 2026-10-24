@@ -1,6 +1,6 @@
 # Hi there, I'm David Muchoki 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=muchokidavid&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/MuchokiDavid)
+<!--[![Profile Views](https://komarev.com/ghpvc/?username=muchokidavid&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/MuchokiDavid)-->
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-10B981?style=flat-square&logo=react)](https://muchokidavid.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/muchokidavid)
 
