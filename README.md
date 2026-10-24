@@ -10,7 +10,7 @@ Full-Stack Software Engineer with expertise in building scalable backend archite
 
 ### 🚀 Highlights & Current Focus
 
-- 🔭 **Currently Building:** [FleetLedger App](https://fleetkadi.com/) —  Fleet Financial tracking and ledger automation platform.
+- 🔭 **Currently Building:** [FleetLedger App](https://fleetkadi.com/) — AI Powered Fleet tracking and ledger automation platform.
 - ⚙️ **Core Expertise:** Python (Django, Flask), JavaScript/TypeScript (React, Next.js, Vue, NestJS), PostgreSQL, Docker, and CI/CD automation.
 - ☁️ **Cloud & Infrastructure:** Hands-on experience with GCP, Azure, and Linux server management (Nginx, Docker Compose).
 - 📫 **Reach Me:** [dmmuchoki7@gmail.com](mailto:dmmuchoki7@gmail.com)
